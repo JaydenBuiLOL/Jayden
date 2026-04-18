@@ -81,7 +81,7 @@ footer{
 }
 
 .navbar-nav li a{
-    color: white important;
+    color: white !important;
     font-size: 18px;
     transition: 0.3s;
 }
