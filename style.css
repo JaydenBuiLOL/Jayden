@@ -69,6 +69,28 @@ footer{
     width: 20px;
 }
 
+.navbar{
+    border: none;
+    background: #000;
+}
+
+.navbar-brand{
+    color:#00bfff !important;
+    font-size:28px;
+    font-weight:bold;
+}
+
+.navbar-nav li a{
+    color: white important;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+.navbar-nav li a:hover{
+    background: #00ffcc !important;
+    color: black !important;
+    border-radius: 8px;
+}
 
   
 
