@@ -12,18 +12,7 @@ body{
     padding-top: 70px;
 }
 
-/* Main Container */
-.container{
-    background-color: rgb(140, 224, 227);
-    max-width: 500px;
-    width: 90%;
-    margin: 30px auto;
-    min-height: 625px;
-    border-radius: 15px;
-    box-shadow: 5px 10px 15px rgba(0,0,0,0.2);
-    text-align: center;
-    padding: 30px;
-}
+
 
 /* Headings */
 .container h1{
